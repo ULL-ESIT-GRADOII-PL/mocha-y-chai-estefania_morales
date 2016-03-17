@@ -7,9 +7,9 @@
   3. Añada un gulpfile.js con tareas minify para compactar el HTML, el CSS y el JavaScript, dejando los ficheros compactados en un subdirectorio minified/ así como una tarea clean que borre los contenidos de dicho directorio.
 
 #### Enlaces
-[Página web de la práctica]()
+[Página web de la práctica](http://ull-esit-gradoii-pl.github.io/mocha-y-chai-estefania_morales/)
 
-[Página web donde residen todas las prácticas]()
+[Página web donde residen todas las prácticas](http://alu0100698688.github.io/web/)
 
 [Campus de la asignatura](https://campusvirtual.ull.es/1516/course/view.php?id=178)
 
