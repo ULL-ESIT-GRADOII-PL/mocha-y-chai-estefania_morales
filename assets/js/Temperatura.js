@@ -5,7 +5,7 @@
             Medida.call(this,numero,unidad); //Llamada al constructor de la clase padre
 
     }
-    Temperatura.prototype = Object.create(Medida.prototype);
+    
 
     var medidaConversion = {
         unidad: 'f'
