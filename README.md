@@ -14,3 +14,5 @@
 [Campus de la asignatura](https://campusvirtual.ull.es/1516/course/view.php?id=178)
 
 [Descripción de la práctica en el campus](https://campusvirtual.ull.es/1516/mod/page/view.php?id=182932)
+
+[Enlace a las pruebas](http://ull-esit-gradoii-pl.github.io/mocha-y-chai-estefania_morales/tests/index.html)
