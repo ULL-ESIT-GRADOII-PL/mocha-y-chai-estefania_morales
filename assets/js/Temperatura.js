@@ -5,7 +5,7 @@
             Medida.call(this,numero,unidad); //Llamada al constructor de la clase padre
 
     }
-    
+
 
     var medidaConversion = {
         unidad: 'f'
@@ -79,7 +79,7 @@
       Temperatura.call(this,numero,'k');
 
       this.c = function(){
-        var result = (this.getNumero() - 32)*5/9;
+        var result = Math.round((this.getNumero() - 273.15)*100)/100;
         var ce = new Celsius(result);
         return ce;
       }

@@ -1,3 +1,4 @@
+
 var expect = chai.expect;
 
 describe("Medida",function(){
@@ -13,7 +14,7 @@ describe("Temperatura",function(){
   describe("Constructor", function(){
     it("Debe recibir un valor y una medida",function(){
       var m = new Temperatura(32, 'f');
-      expect(m.getNumero()).to.equal(32);
+      expect(m.numero).to.equal(32);
     });
   });
 });
